@@ -27,3 +27,9 @@
       ```
 
   4) Open browser [web page](http://127.0.0.1:8050/)
+
+## Demo
+
+![Stats section](DemoImgs/stats.png)
+
+![Frame viewer](DemoImgs/frames.png)

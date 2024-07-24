@@ -2,7 +2,7 @@
 
 ## Install
 
-*Python 3.9.4*
+*Python 3.9.13*
 
   1) Create venv and activate
      
